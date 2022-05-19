@@ -1,0 +1,9 @@
+.square {
+  @apply border font-extralight bg-slate-200 border-slate-500 text-4xl;
+}
+.x {
+  @apply bg-red-400;
+}
+.y {
+  @apply bg-sky-400;
+}
