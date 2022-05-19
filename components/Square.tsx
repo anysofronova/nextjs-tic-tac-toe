@@ -1,6 +1,7 @@
 import styles from "./Square.module.css";
 import cn from "classnames";
-type typePlayer = "X" | "O" | null;
+
+type typePlayer = "X" | "O" | "BOTH" | null;
 
 const Square = ({
   winner,
