@@ -1,4 +1,4 @@
-<h2>Simple NextJS Tic-Tac-Toe app.</h2>  
+<h2>NextJS Tic-Tac-Toe App.</h2>  
 
 <div>
   <img src="https://img.shields.io/badge/Next-%23323330?style=for-the-badge&logo=next.js&logoColor=white">
@@ -11,4 +11,4 @@
 
 **Demo:** <span>https://nextjs-tic-tac-toe.vercel.app/</span>  
 
-![alt text](https://i.postimg.cc/pXt78Cr8/photo.png)
+![img](https://i.postimg.cc/pXt78Cr8/photo.png)
